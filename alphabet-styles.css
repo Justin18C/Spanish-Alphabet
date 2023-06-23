@@ -10,15 +10,27 @@ body {
 }
 .grid-item {
     text-align: center;
-    border: 3px solid black;
+    border: 2px solid black;
     padding: 17px;
     margin: 2px;
     font-size: 45px;
     font-family: 'Belanosima', sans-serif;
-    border-radius: 15px;
+    border-radius: 12px;
     background-color: #FFB703;
     color: #023047;
 }
 .grid-item:hover {
-    background-color: #d9d9d9;
+    background-color: #FB8500;
+    
+}
+h1 {
+    font-family: 'Belanosima', sans-serif;
+    text-align: center;
+    color: #023047;
+    font-size: 3em; 
+}
+hr {
+    background-color: #023047;
+    height: 2px;
+    width: 90%;
 }
