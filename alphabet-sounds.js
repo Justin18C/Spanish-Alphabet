@@ -23,7 +23,7 @@ const u = new Audio('alphabet-sounds/u.mp3');
 const v = new Audio('alphabet-sounds/v.mp3');
 const w = new Audio('alphabet-sounds/w.mp3');
 const x = new Audio('alphabet-sounds/x.mp3');
-const y = new Audio('alphabet-sounds/y.mp3');
+const y = new Audio('alphabet-sounds/y griega.mp3');
 const z = new Audio('alphabet-sounds/z.mp3');
 
 function myFunction(audio) {
